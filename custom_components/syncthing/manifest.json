@@ -1,9 +1,9 @@
 {
   "domain": "syncthing",
   "name": "Syncthing",
-  "codeowners": ["@zhulik"],
+  "codeowners": ["@mateogreil"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/syncthing",
+  "documentation": "https://github.com/MateoGreil/homeassistant-syncthing/blob/main/README.md",
   "iot_class": "local_polling",
   "loggers": ["aiosyncthing"],
   "quality_scale": "silver",
